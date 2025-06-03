@@ -28,6 +28,7 @@ We group projects into random categories that have absolutely nothing to do with
 ## 🎸 Air Guitar Championships
 
 - [Video Summarizer](https://summarizevideo.ai) - Video summarizer service
+- [KeyStrokes](https://www.keystrok.es) - Automated Typing for Video Tutorials
 
 ---
 
