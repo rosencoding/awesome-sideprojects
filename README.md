@@ -22,6 +22,7 @@ We group projects into random categories that have absolutely nothing to do with
 ## 🌮 Taco Philosophy
 
 - [TheBlue.social](https://theblue.social) - Bluesky analytics, Bluesky+X post scheduling and tools
+- [EngagementSpark](https://engagementspark.xyz/) - Find real user problems on Reddit and turn them into content ideas.
 
 ## 🎸 Air Guitar Championships
 
