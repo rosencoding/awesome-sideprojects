@@ -6,6 +6,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 - [PostCapture](https://postcapture.com) - Take beautiful screenshots of X posts
+- [Nazca](https://nazca.my) - App Submission & Discovery Website
 
 
 ## 🛸 UFO Sightings
