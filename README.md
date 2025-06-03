@@ -9,6 +9,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [HextaUI](https://hextaui.com) - Build stunning websites effortlessly 
 - [React Wheel Picker](https://react-wheel-picker.chanhdai.com) - iOS-like Wheel Picker for React
 - [chanhdai.com](https://chanhdai.com) - Minimal portfolio website. Inspired by tailwindcss.com (v4)
+- [Temp Mail Detector](https://tempmaildetector.com) - Block disposable emails with real-time detection.
 
 ## 🛸 UFO Sightings
 
