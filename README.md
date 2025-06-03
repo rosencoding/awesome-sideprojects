@@ -6,6 +6,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 - [PostCapture](https://postcapture.com) - Take beautiful screenshots of X posts
+- [Temp Mail Detector](https://tempmaildetector.com) - Block disposable emails with real-time detection.
 
 
 ## 🛸 UFO Sightings
