@@ -25,7 +25,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 
 ## 🎸 Air Guitar Championships
-- Be the first in this category!
+- [KeyStrokes](https://www.keystrok.es) - Automated Typing for Video Tutorials
 
 
 ---
