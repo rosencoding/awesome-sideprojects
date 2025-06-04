@@ -11,19 +11,23 @@ We group projects into random categories that have absolutely nothing to do with
 - [chanhdai.com](https://chanhdai.com) - Minimal portfolio website. Inspired by tailwindcss.com (v4)
 - [Temp Mail Detector](https://tempmaildetector.com) - Block disposable emails with real-time detection.
 - [Nazca](https://nazca.my) - App Submission & Discovery Website
+- [Maho Jase IT](https://www.mjit.in) - A Comprehensive IT Partner to add a magic to Digital Transformation
 
 ## 🛸 UFO Sightings
 
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
+- [Just Booked](https://justbooked.mjit.in) - Simple Appointment, Venue, Calendar Booking Admin Application
 
 ## 🦄 Unicorn Sightings
 
 - [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
+- [Biz2Buzz](https://biz2buzz.in) - Your E Visiting Card! Express who are you, what you have, why to reach you with easy QR and vCard download
 
 ## 🍕 Pizza Archaeology
 
 - [ConfettiSaaS](https://confettisaas.com) - Confetii-Powered Projects Directory
 - [PizzaTime](https://pizza-time.app) - Say "thanks" to your teammates with a slice of pizza 🍕
+- [Grocery Buddy](https://grocerybuddy.mjit.in) - Free Simple Shopping Listing and Sharing App; Every Family's need
 
 ## 🌮 Taco Philosophy
 
