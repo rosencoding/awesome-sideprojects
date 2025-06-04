@@ -19,7 +19,7 @@ We group projects into random categories that have absolutely nothing to do with
 ## 🦄 Unicorn Sightings
 
 - [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
-
+- [DecipherSEO](https://decipherseo.com) - Your SEO solution for Ecommerce, Create SEO Optimized Products from images.
 ## 🍕 Pizza Archaeology
 
 - [ConfettiSaaS](https://confettisaas.com) - Confetii-Powered Projects Directory
