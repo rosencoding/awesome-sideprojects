@@ -16,6 +16,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🛸 UFO Sightings
 
+- [Byte Back](https://byteback.pro) - SaaS Customer Retention Platform with Cashback
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
 - [AIThumbnail.so](https://aithumbnail.so) - Create Viral Thumbnail for your Youtube Brand
 
