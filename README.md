@@ -11,15 +11,19 @@ We group projects into random categories that have absolutely nothing to do with
 - [chanhdai.com](https://chanhdai.com) - Minimal portfolio website. Inspired by tailwindcss.com (v4)
 - [Temp Mail Detector](https://tempmaildetector.com) - Block disposable emails with real-time detection.
 - [Nazca](https://nazca.my) - App Submission & Discovery Website
+- [Made with Lovable](https://madewithlovable.com) - A collection of apps and websites made with Lovable
+- [Peaceful Mindful Pocket](https://peacefulmindfulpocket.com) - Brokie no more; You shall be.
 
 ## 🛸 UFO Sightings
 
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
+- [AIThumbnail.so](https://aithumbnail.so) - Create Viral Thumbnail for your Youtube Brand
 
 ## 🦄 Unicorn Sightings
 
 - [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
 - [DocPilot](https://docpilot.dev/) - Beautiful, interactive API docs right from your codebase
+- [Leoline](https://leoline.fun) - Magical stories for curious kids
 
 ## 🍕 Pizza Archaeology
 
@@ -31,6 +35,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [TheBlue.social](https://theblue.social) - Bluesky analytics, Bluesky+X post scheduling and tools
 - [EngagementSpark](https://engagementspark.xyz/) - Find real user problems on Reddit and turn them into content ideas.
 - [PagePrism](https://pageprism.com) - Awesome Website / Saas Uptime Monitor ( Free and Paid )
+- [GIF.new](https://www.gif.new/) - Instantly capture and create personal response GIFs.
 
 ## 🎸 Air Guitar Championships
 
