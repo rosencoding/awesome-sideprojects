@@ -6,20 +6,27 @@ We group projects into random categories that have absolutely nothing to do with
 ## 🎩 Magical Mushrooms
 
 - [PostCapture](https://postcapture.com) - Take beautiful screenshots of X posts
-- [HextaUI](https://hextaui.com) - Build stunning websites effortlessly 
+- [HextaUI](https://hextaui.com) - Build stunning websites effortlessly
 - [React Wheel Picker](https://react-wheel-picker.chanhdai.com) - iOS-like Wheel Picker for React
 - [chanhdai.com](https://chanhdai.com) - Minimal portfolio website. Inspired by tailwindcss.com (v4)
 - [Temp Mail Detector](https://tempmaildetector.com) - Block disposable emails with real-time detection.
 - [Nazca](https://nazca.my) - App Submission & Discovery Website
+- [Made with Lovable](https://madewithlovable.com) - A collection of apps and websites made with Lovable
+- [Peaceful Mindful Pocket](https://peacefulmindfulpocket.com) - Brokie no more; You shall be.
 
 ## 🛸 UFO Sightings
 
+- [Byte Back](https://byteback.pro) - SaaS Customer Retention Platform with Cashback
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
+- [AIThumbnail.so](https://aithumbnail.so) - Create Viral Thumbnail for your Youtube Brand
 
 ## 🦄 Unicorn Sightings
 
 - [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
 - [DecipherSEO](https://decipherseo.com) - Your SEO solution for Ecommerce, Create SEO Optimized Products from images.
+- [DocPilot](https://docpilot.dev/) - Beautiful, interactive API docs right from your codebase
+- [Leoline](https://leoline.fun) - Magical stories for curious kids
+
 ## 🍕 Pizza Archaeology
 
 - [ConfettiSaaS](https://confettisaas.com) - Confetii-Powered Projects Directory
@@ -30,6 +37,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [TheBlue.social](https://theblue.social) - Bluesky analytics, Bluesky+X post scheduling and tools
 - [EngagementSpark](https://engagementspark.xyz/) - Find real user problems on Reddit and turn them into content ideas.
 - [PagePrism](https://pageprism.com) - Awesome Website / Saas Uptime Monitor ( Free and Paid )
+- [GIF.new](https://www.gif.new/) - Instantly capture and create personal response GIFs.
 
 ## 🎸 Air Guitar Championships
 
@@ -44,8 +52,9 @@ Want to add your project? Awesome!
 
 1️⃣ Fork this repository  
 2️⃣ Add your project to one of these **random categories** above (don't worry if it doesn't make sense!)  
-3️⃣ Make sure your project has:  
-- A working app (paid or free – doesn't matter!)  
+3️⃣ Make sure your project has:
+
+- A working app (paid or free – doesn't matter!)
 - An English landing page
 
 4️⃣ Submit a pull request and watch your backlinks fly 🚀
