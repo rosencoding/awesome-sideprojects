@@ -32,6 +32,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [GptWatermarkRemover](https://gpt-watermark-remover.com) - Remove invisible watermarks from GPT text content
 - [ConfettiSaaS](https://confettisaas.com) - Confetii-Powered Projects Directory
 - [PizzaTime](https://pizza-time.app) - Say "thanks" to your teammates with a slice of pizza 🍕
+- [Regex Forge](https://regexforge.com) - Regex editor for Mac
 
 ## 🌮 Taco Philosophy
 
