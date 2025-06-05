@@ -30,6 +30,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [TheBlue.social](https://theblue.social) - Bluesky analytics, Bluesky+X post scheduling and tools
 - [EngagementSpark](https://engagementspark.xyz/) - Find real user problems on Reddit and turn them into content ideas.
 - [PagePrism](https://pageprism.com) - Awesome Website / Saas Uptime Monitor ( Free and Paid )
+- [GIF.new](https://www.gif.new/) - Instantly capture and create personal response GIFs.
 
 ## 🎸 Air Guitar Championships
 
