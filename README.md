@@ -21,6 +21,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
 - [Just Booked](https://justbooked.mjit.in) - Simple Appointment, Venue, Calendar Booking Admin Application
 - [AIThumbnail.so](https://aithumbnail.so) - Create Viral Thumbnail for your Youtube Brand
+- [Phare.io](https://phare.io/) - Uptime monitoring, alerts, incidents, and status pages, in a shockingly good platform.
 
 ## 🦄 Unicorn Sightings
 
