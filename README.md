@@ -14,6 +14,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Maho Jase IT](https://www.mjit.in) - A Comprehensive IT Partner to add a magic to Digital Transformation
 - [Made with Lovable](https://madewithlovable.com) - A collection of apps and websites made with Lovable
 - [Peaceful Mindful Pocket](https://peacefulmindfulpocket.com) - Brokie no more; You shall be.
+- [Gotthard Road Tunnel Traffic](https://gotthard-tunnel.com/en/home) - Real-time traffic updates for Gotthard Tunnel.
 
 ## 🛸 UFO Sightings
 
