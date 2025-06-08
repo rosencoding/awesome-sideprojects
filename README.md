@@ -26,6 +26,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Just Booked](https://justbooked.mjit.in) - Simple Appointment, Venue, Calendar Booking Admin Application
 - [AIThumbnail.so](https://aithumbnail.so) - Create Viral Thumbnail for your Youtube Brand
 - [Phare.io](https://phare.io/) - Uptime monitoring, alerts, incidents, and status pages, in a shockingly good platform.
+- [The Tools Time](https://toolstimes.com) - Discover tools to help you make money & save time
 
 ## 🦄 Unicorn Sightings
 
@@ -55,6 +56,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 - [Video Summarizer](https://summarizevideo.ai) - Video summarizer service
 - [KeyStrokes](https://www.keystrok.es) - Automated Typing for Video Tutorials
+- [Follow Monday](https://followmonday.com) - Discover active individuals on socials
 
 ---
 
