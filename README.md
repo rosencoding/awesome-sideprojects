@@ -16,6 +16,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Peaceful Mindful Pocket](https://peacefulmindfulpocket.com) - Brokie no more; You shall be.
 - [Gotthard Road Tunnel Traffic](https://gotthard-tunnel.com/en/home) - Real-time traffic updates for Gotthard Tunnel.
 - [PostSyncer](https://postsyncer.com) - Social media management platform.
+- [Listing Cat]([https://www.listingcat.com) - Marketing Database for startups and indie hackers
 
 ## 🛸 UFO Sightings
 
@@ -47,6 +48,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [EngagementSpark](https://engagementspark.xyz/) - Find real user problems on Reddit and turn them into content ideas.
 - [PagePrism](https://pageprism.com) - Awesome Website / Saas Uptime Monitor ( Free and Paid )
 - [GIF.new](https://www.gif.new/) - Instantly capture and create personal response GIFs.
+- [Fyzz.chat](https://www.fyzz.chat/chat) - All of the best language models in one place
 
 ## 🎸 Air Guitar Championships
 
