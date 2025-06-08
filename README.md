@@ -5,6 +5,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 
+- [Profit Trail](https://profit-trail.com) - Manage and analyse all of your SaaS invoices in one place!
 - [PostCapture](https://postcapture.com) - Take beautiful screenshots of X posts
 - [HextaUI](https://hextaui.com) - Build stunning websites effortlessly
 - [React Wheel Picker](https://react-wheel-picker.chanhdai.com) - iOS-like Wheel Picker for React
