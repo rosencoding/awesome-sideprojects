@@ -18,7 +18,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Peaceful Mindful Pocket](https://peacefulmindfulpocket.com) - Brokie no more; You shall be.
 - [Gotthard Road Tunnel Traffic](https://gotthard-tunnel.com/en/home) - Real-time traffic updates for Gotthard Tunnel.
 - [PostSyncer](https://postsyncer.com) - Social media management platform.
-- [Listing Cat]([https://www.listingcat.com) - Marketing Database for startups and indie hackers
+- [Listing Cat](https://www.listingcat.com) - Marketing Database for startups and indie hackers
 
 ## 🛸 UFO Sightings
 
