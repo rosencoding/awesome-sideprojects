@@ -36,6 +36,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [DecipherSEO](https://decipherseo.com) - Your SEO solution for Ecommerce, Create SEO Optimized Products from images.
 - [DocPilot](https://docpilot.dev/) - Beautiful, interactive API docs right from your codebase
 - [Leoline](https://leoline.fun) - Magical stories for curious kids
+- [Latwy](https://latwy.co) - Track your finances in Notion automatically.
 
 ## 🍕 Pizza Archaeology
 
