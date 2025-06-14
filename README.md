@@ -5,6 +5,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 
+- [Content Redefined AI](https://www.contentredefined.ai) - 1-click AI blog/article generation. SEO-optimised, AI images, SERP research included.
 - [The Influencer AI](https://www.theinfluencer.ai) - Create *consistent* AI personas and use them for photos, videos, try-ons and product images.
 - [Profit Trail](https://profit-trail.com) - Manage and analyse all of your SaaS invoices in one place!
 - [PostCapture](https://postcapture.com) - Take beautiful screenshots of X posts
@@ -20,6 +21,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [PostSyncer](https://postsyncer.com) - Social media management platform.
 - [Listing Cat](https://www.listingcat.com) - Marketing Database for startups and indie hackers
 - [Wreny](https://www.wreny.app) - All in one job hunting platform.
+- [Leedlime](https://leedlime.com) - find leads from Reddit
 
 ## 🛸 UFO Sightings
 
