@@ -20,6 +20,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Gotthard Road Tunnel Traffic](https://gotthard-tunnel.com/en/home) - Real-time traffic updates for Gotthard Tunnel.
 - [PostSyncer](https://postsyncer.com) - Social media management platform.
 - [Listing Cat](https://www.listingcat.com) - Marketing Database for startups and indie hackers
+- [Wreny](https://www.wreny.app) - All in one job hunting platform.
 - [Leedlime](https://leedlime.com) - find leads from Reddit
 
 ## 🛸 UFO Sightings
