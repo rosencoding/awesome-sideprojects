@@ -71,6 +71,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [KeyStrokes](https://www.keystrok.es) - Automated Typing for Video Tutorials
 - [Follow Monday](https://followmonday.com) - Discover active individuals on socials
 - [10AppDeals](https://10appdeals.com) - 10 handpicked app deals every day.
+- [GetAndon](https://getandon.com) - A hackable desklamp that Claude / cursor can control through MCP. Ambiently lets you know what the agents are doing while you're alt tabbed or away from your desk.
 
 ---
 
