@@ -37,6 +37,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Phare.io](https://phare.io/) - Uptime monitoring, alerts, incidents, and status pages, in a shockingly good platform.
 - [The Tools Time](https://toolstimes.com) - Discover tools to help you make money & save time
 - [millionship.dev](https://millionship.dev) - playful directory app for indie devs 🏴‍☠️
+- [affiliationlist.com](https://affiliationlist.com) - Submit you affiliation program, and be promoted by content creator  
 
 ## 🦄 Unicorn Sightings
 
