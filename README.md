@@ -57,6 +57,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [PizzaTime](https://pizza-time.app) - Say "thanks" to your teammates with a slice of pizza 🍕
 - [Grocery Buddy](https://grocerybuddy.mjit.in) - Free Simple Shopping Listing and Sharing App; Every Family's need
 - [Regex Forge](https://regexforge.com) - Regex editor for Mac
+- [GitPing](https://gitping.app) - Free Chrome App - Become a Pull Request reviewing Super Hero! Get notified for updates on Pull Requests and Issues on GitHub.
 
 ## 🌮 Taco Philosophy
 
