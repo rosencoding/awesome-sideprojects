@@ -10,6 +10,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Online Side Hustles Directory](https://esidehustles.com) - Browse 370+ side hustle ideas, work-from-home opportunities, and easy ways to make money fast.
 - [Content Redefined AI](https://www.contentredefined.ai) - 1-click AI blog/article generation. SEO-optimised, AI images, SERP research included.
 - [The Influencer AI](https://www.theinfluencer.ai) - Create *consistent* AI personas and use them for photos, videos, try-ons and product images.
+- [Unrealshot AI](https://www.unrealshot.com) - Generate *realistic* AI photoshoots using your face. Perfect for headshots, themed portraits, profile pics, and more.
 - [Profit Trail](https://profit-trail.com) - Manage and analyse all of your SaaS invoices in one place!
 - [PostCapture](https://postcapture.com) - Take beautiful screenshots of X posts
 - [HextaUI](https://hextaui.com) - Build stunning websites effortlessly
@@ -37,7 +38,8 @@ We group projects into random categories that have absolutely nothing to do with
 - [Phare.io](https://phare.io/) - Uptime monitoring, alerts, incidents, and status pages, in a shockingly good platform.
 - [The Tools Time](https://toolstimes.com) - Discover tools to help you make money & save time
 - [millionship.dev](https://millionship.dev) - playful directory app for indie devs 🏴‍☠️
-- [affiliationlist.com](https://affiliationlist.com) - Submit you affiliation program, and be promoted by content creator  
+- [affiliationlist.com](https://affiliationlist.com) - Submit you affiliation program, and be promoted by content creator
+- [FoundersWall](https://www.founderswall.com) - A raw public board where indie founders log their wins, fails, and chaos. No likes. No hype. Just building in public, for real.
 
 ## 🦄 Unicorn Sightings
 
