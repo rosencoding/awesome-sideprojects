@@ -5,6 +5,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 
+- [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - A mobile app for real-time tracking & managing of your Bluesky followers & followings!
 - [Startup Listing](https://startuplist.ing) - A platform to list your startup and get discovered by the right people.
 - [TurboStarter](https://www.turbostarter.dev) - the Next.js, React Native (Expo) and WXT (Vite) SaaS production-ready starter kit. Launch your web, mobile app and browser extension with one-click boilerplate.
 - [Online Side Hustles Directory](https://esidehustles.com) - Browse 370+ side hustle ideas, work-from-home opportunities, and easy ways to make money fast.
