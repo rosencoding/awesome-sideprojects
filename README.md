@@ -28,6 +28,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Listing Cat](https://www.listingcat.com) - Marketing Database for startups and indie hackers
 - [Wreny](https://www.wreny.app) - All in one job hunting platform.
 - [Leedlime](https://leedlime.com) - find leads from Reddit
+- [Saassy Board](https://saassy-board.com) - List your SaaS, earn monthly cash, help feed people in need!
 
 ## 🛸 UFO Sightings
 
